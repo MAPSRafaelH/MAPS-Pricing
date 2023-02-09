@@ -420,12 +420,6 @@
                  "height":61.6672851518306,
                  "id":12,
                  "name":"clockPopup",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "visible":true,
                  "width":93.7162209047986,
@@ -438,11 +432,6 @@
                  "id":13,
                  "name":"Sala de descanso",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -471,11 +460,6 @@
                  "name":"silentZone",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"silent",
                          "type":"bool",
                          "value":true
@@ -492,11 +476,6 @@
                  "id":16,
                  "name":"jitsiMeetingRoom1",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -523,12 +502,6 @@
                  "height":39.6969696969697,
                  "id":17,
                  "name":"clock",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "visible":true,
                  "width":50.2727272727272,
@@ -541,11 +514,6 @@
                  "id":46,
                  "name":"jitsiMesa9",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -574,11 +542,6 @@
                  "name":"jitsiMesa11",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -600,11 +563,6 @@
                  "id":49,
                  "name":"jitsiMesa10",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -628,11 +586,6 @@
                  "name":"jitsiMesa12",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -654,11 +607,6 @@
                  "id":51,
                  "name":"jitsi1x1Dalton",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -685,12 +633,6 @@
                  "height":97,
                  "id":52,
                  "name":"JitsiChafariz",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "visible":false,
                  "width":62,
@@ -703,11 +645,6 @@
                  "id":59,
                  "name":"jitsiMesa21",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -736,11 +673,6 @@
                  "name":"jitsiMesa23",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -762,11 +694,6 @@
                  "id":61,
                  "name":"jitsiMesa22",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -790,11 +717,6 @@
                  "name":"jitsiMesa24",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -816,11 +738,6 @@
                  "id":63,
                  "name":"jitsiMesa17",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -849,11 +766,6 @@
                  "name":"jitsiMesa19",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -875,11 +787,6 @@
                  "id":65,
                  "name":"jitsiMesa18",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -903,11 +810,6 @@
                  "name":"jitsiMesa20",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -929,11 +831,6 @@
                  "id":67,
                  "name":"jitsiMesa4",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -962,11 +859,6 @@
                  "name":"jitsiMesa7",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -988,11 +880,6 @@
                  "id":69,
                  "name":"jitsiMesa6",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -1016,11 +903,6 @@
                  "name":"jitsiMesa8",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -1042,11 +924,6 @@
                  "id":71,
                  "name":"jitsiMesa1",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -1075,11 +952,6 @@
                  "name":"jitsiMesa3",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -1101,11 +973,6 @@
                  "id":73,
                  "name":"jitsiMesa2",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -1129,11 +996,6 @@
                  "name":"jitsiMesa4",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -1155,11 +1017,6 @@
                  "id":75,
                  "name":"jitsiMesa13",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -1188,11 +1045,6 @@
                  "name":"jitsiMesa15",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -1214,11 +1066,6 @@
                  "id":77,
                  "name":"jitsiMesa14",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -1242,11 +1089,6 @@
                  "name":"jitsiMesa16",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -1267,12 +1109,6 @@
                  "height":19,
                  "id":82,
                  "name":"",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1292,12 +1128,6 @@
                  "height":30,
                  "id":83,
                  "name":"",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1316,12 +1146,6 @@
                  "height":19,
                  "id":84,
                  "name":"Mesa13",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1341,12 +1165,6 @@
                  "height":19,
                  "id":85,
                  "name":"Mesa14",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1366,12 +1184,6 @@
                  "height":19,
                  "id":86,
                  "name":"Mesa15",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1391,12 +1203,6 @@
                  "height":19,
                  "id":88,
                  "name":"Mesa16",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1416,12 +1222,6 @@
                  "height":19,
                  "id":93,
                  "name":"Mesa1",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1441,12 +1241,6 @@
                  "height":19,
                  "id":94,
                  "name":"Mesa2",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1466,12 +1260,6 @@
                  "height":19,
                  "id":95,
                  "name":"Mesa3",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1491,12 +1279,6 @@
                  "height":19,
                  "id":96,
                  "name":"Mesa4",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1516,12 +1298,6 @@
                  "height":19,
                  "id":97,
                  "name":"Mesa5",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1542,12 +1318,6 @@
                  "height":19,
                  "id":98,
                  "name":"Mesa6",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1567,12 +1337,6 @@
                  "height":19,
                  "id":99,
                  "name":"Mesa7",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1592,12 +1356,6 @@
                  "height":19,
                  "id":100,
                  "name":"Mesa8",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1617,12 +1375,6 @@
                  "height":19,
                  "id":101,
                  "name":"Mesa17",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1642,12 +1394,6 @@
                  "height":19,
                  "id":102,
                  "name":"Mesa18",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1667,12 +1413,6 @@
                  "height":19,
                  "id":103,
                  "name":"Mesa19",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1692,12 +1432,6 @@
                  "height":19,
                  "id":104,
                  "name":"Mesa20",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1717,12 +1451,6 @@
                  "height":19,
                  "id":105,
                  "name":"Mesa21",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1742,12 +1470,6 @@
                  "height":19,
                  "id":106,
                  "name":"Mesa22",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1767,12 +1489,6 @@
                  "height":19,
                  "id":107,
                  "name":"Mesa23",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1792,12 +1508,6 @@
                  "height":19,
                  "id":108,
                  "name":"Mesa24",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1817,12 +1527,6 @@
                  "height":19,
                  "id":109,
                  "name":"Mesa9",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1842,12 +1546,6 @@
                  "height":19,
                  "id":110,
                  "name":"Mesa10",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1867,12 +1565,6 @@
                  "height":19,
                  "id":111,
                  "name":"Mesa11",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1892,12 +1584,6 @@
                  "height":19,
                  "id":112,
                  "name":"Mesa12",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "text":
                     {
@@ -1918,11 +1604,6 @@
                  "id":113,
                  "name":"Mesa de lanche",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -1951,11 +1632,6 @@
                  "name":"Sala de apresenta\u00e7\u00e3o",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -1982,11 +1658,6 @@
                  "id":115,
                  "name":"1:1",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -2015,11 +1686,6 @@
                  "name":"1:1",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -2047,11 +1713,6 @@
                  "name":"1:1",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -2078,11 +1739,6 @@
                  "id":118,
                  "name":"1:1",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
